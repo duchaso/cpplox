@@ -1,5 +1,7 @@
 #pragma once
 
+#include "Token.hpp"
+
 class Expr {
 public:
 	virtual ~Expr(){}
